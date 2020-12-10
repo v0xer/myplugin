@@ -1,6 +1,5 @@
 <div class="wrap">
 <h1>تنظیمات پلاگین</h1>
-
 <form action="" method="post">
 <label for="email">
 <input type="text" name="email" value= "<?php echo empty($email_input1) ==1 ? '' : $email_input1; ?>"> <br>
